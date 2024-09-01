@@ -1,1 +1,2 @@
-
+# C:\buildrustdesk\thibdesk\src\common.rs
+Ligne 813 : let url = "https://yourserver.com/releases/latest";
